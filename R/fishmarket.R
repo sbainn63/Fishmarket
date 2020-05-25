@@ -1,3 +1,11 @@
+##########################################################################
+#name:fishmarket.R
+#author: Sarah Bainn
+#description: Analysis on fishmarket dataset
+#date last updated:05/25/2020
+##########################################################################
+
+
 library(readstata13)
 library(tidyverse)
 library(stargazer)
