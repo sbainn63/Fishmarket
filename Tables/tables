@@ -1,1 +1,1 @@
-
+tab_model(reg,reg.wave,reg.speed, dv.labels = c("OLS", "Wave IV", "Wind IV"), file = "text", title = "Regression output table of lnQuantity", show.r2 = TRUE, show.fstat = TRUE, show.p = TRUE, show.se = TRUE, collapse.se = TRUE, show.ci = FALSE)
